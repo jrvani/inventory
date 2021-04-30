@@ -1,0 +1,15 @@
+pid,category,specification,discount,country,quantity,price
+101,Fruits,Mango,5,India,30,200
+102,vegetables,Onion,10,India,20,300
+111,Dairy,Panner,15,India,40,400
+121,Snacks,Frozen Fries,20,USA,20,400
+131,vegetables,Beans,25,India,50,500
+151,vegetables,Brinjal,13,India,60,236
+145,vegetables,Capsicum,15,Australia,30,632
+178,Fruits,Apple,5,USA,60,698
+123,Dairy,Muffin,10,USA,20,450
+169,Snacks,Nutrition Bar,12,Australia,30,258
+147,vegetables,Spinach,14,India,80,147
+128,Fruits,Pear,15,USA,90,123
+126,Dairy,Tea Cake,10,Australia,100,789
+122,Snacks,Ragi Sticks,5,India,80,1500
